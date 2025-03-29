@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "oTJ5bSzGqCd88LRJAnS3X6jHPaq1XN2EZfxi6O43AtA=",
+  "Source": "SmartIoTApi",
+  "BasePath": "_content/SmartIoTApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

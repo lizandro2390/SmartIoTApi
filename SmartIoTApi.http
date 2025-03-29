@@ -1,0 +1,6 @@
+@SmartIoTApi_HostAddress = http://localhost:5063
+
+GET {{SmartIoTApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
